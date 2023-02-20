@@ -1,0 +1,16 @@
+{
+   "edition" : "V1.1",
+   "record" : {
+      "Adcode" : "510800",
+      "LocationID" : "101272101",
+      "location" : {
+         "adm1" : "\u56db\u5ddd\u7701",
+         "adm2" : "\u5e7f\u5143",
+         "name" : "\u5e7f\u5143"
+      },
+      "position" : {
+         "lat" : "32.43367",
+         "lon" : "105.82976"
+      }
+   }
+}

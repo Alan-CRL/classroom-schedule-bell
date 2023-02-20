@@ -1,0 +1,26 @@
+{
+    "code": 200,
+    "msg": "SUCCESS",
+    "ipinfo": {
+        "type": "ipv4",
+        "text": "61.188.212.37",
+        "cnip": true
+    },
+    "ipdata": {
+        "info1": "四川省",
+        "info2": "广元市",
+        "info3": "",
+        "isp": "电信"
+    },
+    "adcode": {
+        "o": "四川省广元市 - 电信",
+        "p": "四川",
+        "c": "广元",
+        "n": "四川-广元",
+        "r": "四川-广元",
+        "a": "510800",
+        "i": true
+    },
+    "tips": "接口由VORE-API(https:\/\/api.vore.top\/)免费提供",
+    "time": 1676448977
+}

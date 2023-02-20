@@ -1,0 +1,1 @@
+{"code":"200","location":[{"name":"广元","id":"101272101","lat":"32.43367","lon":"105.82976","adm2":"广元","adm1":"四川省","country":"中国","tz":"Asia/Shanghai","utcOffset":"+08:00","isDst":"0","type":"city","rank":"23","fxLink":"http://hfx.link/3y01"}],"refer":{"sources":["QWeather"],"license":["QWeather Developers License"]}}

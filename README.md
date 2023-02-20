@@ -7,6 +7,9 @@
 
 相信您马上就可以体验预览版本了，我们将会在此页面上编写关于它的详细内容。
 
+查看已发布版本和**下载最新版本安装包**
+，请转到 [Releases](https://github.com/Alan-CRL/classroom-schedule-bell/releases) 页面
+
 ---
 
 目前暂时只适用于：中国地区
